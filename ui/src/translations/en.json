@@ -1193,6 +1193,18 @@
         "loading_execution": "Something went wrong while loading the execution"
     },
     "debug": "Debug",
-    "default": "Default"
+    "default": "Default",
+
+   "watch": "watch",
+   "Learn more": "Learn More",
+   
+    "watch_video": "Watch Video",
+
+    "runners": "Runners",
+
+    "select": "Select your {{section}}",
+
+    "for flow": "for flow"
+
   }
 }
